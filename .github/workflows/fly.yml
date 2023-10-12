@@ -1,4 +1,4 @@
-name: Fly Deploy
+name: strapi-portfolio-backend
 on:
   push:
     branches:
