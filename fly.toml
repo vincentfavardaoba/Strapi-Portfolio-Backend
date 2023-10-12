@@ -1,6 +1,6 @@
 # fly.toml file generated for vincent-portfolio-backend on 2023-10-13T08:46:37+09:00
 
-app = "vincent-portfolio-backend"
+app = "strapi-portfolio-backend"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
