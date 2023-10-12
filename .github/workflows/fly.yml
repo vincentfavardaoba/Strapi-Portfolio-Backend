@@ -1,4 +1,6 @@
 name: strapi-portfolio-backend
+app_name: strapi-portfolio-backend
+
 on:
   push:
     branches:
